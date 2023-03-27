@@ -20,7 +20,7 @@ Hi everyone, these are my works. If got interested contact me
 
 ## Logo
 ![Mais Divas logo](/images/logo-mais-divas-final.svg)
-<sub> Maked on Inkscape, 2022. </sub>
+<sub align="left"> Maked on Inkscape, 2022. </sub>
 
 ## Social media designs
 ![Lash lift post](/images/modelo-lash-lift.jpg)
