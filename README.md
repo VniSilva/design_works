@@ -16,9 +16,22 @@ Hi everyone, these are my works. If got interested contact me
 <sub> Maked on Photoshop in May, 2022. </sub>
 
 
-## Stranger Things Flyer
-![Stranger Things Flyer](/images/stranger-thins-banner.jpeg)
+# Desenvolvimento de marca
+
+## Logo
+![Mais Divas logo](/images/logo-mais-divas-final.svg)
 <sub> Maked on Inkscape, 2022. </sub>
+
+## Social media designs
+![Lash lift post](/images/modelo-lash-lift.jpg)
+![Skin care post](/images/publicacao-pele-3.jpg)
+![Profile cover](/images/capa-facebook-mais-divas-alternativo-2.png)
+
+## Book cover
+![Book cover](/images/o-manual-da-musculacao.png)
+<sub> Maked on Canva in February, 2023. </sub>
+
+
 
 
 
