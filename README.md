@@ -16,7 +16,7 @@
 <sub> Maked on Photoshop in May, 2022. </sub>
 
 
-# Desenvolvimento de marca
+# Brand Development
 
 ## Logo
 ![Mais Divas logo](/images/logo-mais-divas-final.svg)
