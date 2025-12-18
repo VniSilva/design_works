@@ -1,7 +1,7 @@
 
 
 # My Design Works 💻
-## 👋 Hi everyone, this is my work💪.
+## 👋 Hi everyone, thats some of my work.
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusdossantossilva10@gmail.com)](mailto:viniciusdossantossilva10@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-ViniciussSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusdossantossilva/)](https://www.linkedin.com/in/viniciusdossantossilva/)
